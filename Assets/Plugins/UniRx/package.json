@@ -1,0 +1,16 @@
+{
+    "name": "games.newtype.unirx",
+    "version": "7.1.0-preview.1",
+    "displayName": "UniRx - Reactive Extensions for Unity",
+    "unity": "2019.1",
+    "dependencies": {},
+    "keywords": [
+        "upm",
+        "react",
+        "unirx"
+    ],
+    "author": {
+        "name": "Newtype Games",
+        "url": "https://github.com/newtype-games/UniRx"
+    }
+}
